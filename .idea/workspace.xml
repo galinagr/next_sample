@@ -13,6 +13,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="next_sample" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -28,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/,gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -162,33 +165,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sample_next" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_next" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample_next" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_next" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample_next" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_next" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample_next" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_next" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="next_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="next_sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,19 +220,20 @@
       <updated>1594126104108</updated>
       <workItem from="1594126105592" duration="11953000" />
       <workItem from="1594141282174" duration="277000" />
+      <workItem from="1594142028178" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12230000" />
+    <option name="totallyTimeSpent" value="12860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49632353" visible="true" weight="0.24954791" />
-      <window_info id="Structure" order="1" sideWeight="0.5036765" side_tool="true" visible="true" weight="0.24954791" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4944853" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" sideWeight="0.5055147" side_tool="true" weight="0.24954791" />
+      <window_info id="npm" order="2" sideWeight="0.5055147" side_tool="true" weight="0.24954791" />
+      <window_info id="Favorites" order="3" sideWeight="0.5055147" side_tool="true" weight="0.24954791" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32987553" />
@@ -382,7 +371,7 @@
     <entry file="file://$PROJECT_DIR$/,gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
